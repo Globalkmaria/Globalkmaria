@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - :heart_eyes: I'm interested in :
   - :bulb: :left_right_arrow: :woman_technologist: :left_right_arrow: :couple: 
-  </br> (How to connect <strong>Business</strong> to <strong>Users</strong> with <strong>Code.</strong>)
+  </br> How to connect <strong>Business</strong> to <strong>Users</strong> with <strong>Code.</strong>
   - :thought_balloon: + :clapper: 
   </br> How users <strong>think</strong> and <strong>act</strong>!  
 - 📫 How to reach me: globalkmaria@gmail.com
