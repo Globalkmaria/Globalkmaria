@@ -18,15 +18,14 @@ Here are some ideas to get you started:
 
 <h2 align="center"> Tech Stack </h2>
 <div align="center">
-  
-  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) 
+ 
   ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
   ![](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white) 
     ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+    ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) 
   ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) 
   ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white) 
   ![](https://img.shields.io/badge/styled%20Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white) 
-  ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) 
   
 </div>
 
